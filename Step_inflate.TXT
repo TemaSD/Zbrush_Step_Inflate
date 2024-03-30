@@ -1,0 +1,41 @@
+//Step Inflate by Artem Shupa-Dubrova
+[ISubPalette,"Zplugin:Step Inflate",1]
+// 1 row
+[IButton,"Zplugin:Step Inflate:<< -0.5","Inflate -0.5",
+	[ISet,Tool:Deformation:Inflate,-0.5]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:<< -0.1","Inflate -0.1",
+	[ISet,Tool:Deformation:Inflate,-0.1]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:+0.1 >>","Inflate +0.1",
+	[ISet,Tool:Deformation:Inflate,0.1]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:+0.5 >>","Inflate +0.5",
+	[ISet,Tool:Deformation:Inflate,0.5]
+,0,0.25]
+// 2 row
+[IButton,"Zplugin:Step Inflate:<< -5","Inflate -5",
+	[ISet,Tool:Deformation:Inflate,-5]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:<< -1","Inflate -1",
+	[ISet,Tool:Deformation:Inflate,-1]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:+1 >>","Inflate +1",
+	[ISet,Tool:Deformation:Inflate,1]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:+5 >>","Inflate +5",
+	[ISet,Tool:Deformation:Inflate,5]
+,0,0.25]
+// 3 row
+[IButton,"Zplugin:Step Inflate:<< -50","Inflate -50",
+	[ISet,Tool:Deformation:Inflate,-50]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:<< -10","Inflate -10",
+	[ISet,Tool:Deformation:Inflate,-10]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:+10 >>","Inflate +10",
+	[ISet,Tool:Deformation:Inflate,10]
+,0,0.25]
+[IButton,"Zplugin:Step Inflate:+50 >>","Inflate +50",
+	[ISet,Tool:Deformation:Inflate,50]
+,0,0.25]
